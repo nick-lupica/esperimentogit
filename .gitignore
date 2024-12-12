@@ -1,0 +1,6 @@
+# PyCharm
+.idea/
+.venv/
+
+#windows
+desktop.ini
